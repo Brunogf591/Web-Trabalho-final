@@ -4,13 +4,13 @@
 import Image from 'next/image';
 
 
-import userIcon from 'public/user.png';
-import passwordIcon from 'public/padlock.png';
+import userIcon from 'public/user2.png';
+import passwordIcon from 'public/padlock2.png';
 import z from 'zod';
 import toast from 'react-hot-toast';
 import Link from 'next/link';
 import { validateCredentials } from '@/app/libs/credentials';
-
+import '@/app/styles/Login.css';
 
 export interface LoginCredentials {
     email: string,
@@ -59,7 +59,7 @@ export default function LoginPage(){
 
     return (
         <form className='login-form' action={loginAction}>
-            <div>
+            <div className='ColetaDados'>
                 <section className="user-input">
                     <Image 
                         src={userIcon}
@@ -74,8 +74,8 @@ export default function LoginPage(){
                     />
                     <input type="password" name="password" id="password" placeholder="Senha" aria-label="Senha" />
                 </section>
+                <button>Entrar</button>
             </div>
-            <button>Entrar</button>
             <div className='link-cadastrar'>
                 Ainda não tem conta? Clique <Link className='btn-criar-conta' href="/create">aqui</Link>
             </div>

@@ -1,8 +1,9 @@
 'use client';
 
 import Image from "next/image";
-import userIcon from "public/user.png";
-import passwordIcon from "public/padlock.png";
+import userIcon from "public/user2.png";
+import passwordIcon from "public/padlock2.png";
+import '@/app/styles/CreateUser.css';
 
 //import '@/app/styles/login.css';
 import {z} from "zod"; //import do zod para apoio nas validações do front: npm i zod 
@@ -64,9 +65,9 @@ export default function CreateUser(){
 
     return(
         <form action={createUserClient} className="login-form">
-            <div>
+            <div className="ColetaDados">
                 <section className="user-input">
-                    <Image src={userIcon} alt="user icon"/>
+                    <Image id="UsuarioIcon" src={userIcon} alt="user icon"/>
                     <input type="email" name="email" id="email" placeholder="Email" aria-label="Email" required/>
                 </section>
 
@@ -79,8 +80,8 @@ export default function CreateUser(){
                     <Image src={passwordIcon} alt="user icon"/>
                     <input type="password" name="conf-password" id="conf-password" placeholder="Confirmar Senha" aria-label="Confirmar Senha" required/>
                 </section>
+                <button>Cadastrar</button>
             </div>    
-            <button>Cadastrar</button>
         </form>
     )
 }
