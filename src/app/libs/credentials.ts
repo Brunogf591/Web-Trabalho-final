@@ -3,11 +3,17 @@
 import { redirect } from "next/navigation";
 import {retornaBD,armazenaBD} from "./conexaoBd";
 
-import bcrypt from "bcrypt"; //Para criptografar a senha. npm i bcrypt
+import bcrypt from "bcrypt"; 
 import { LoginCredentials } from "../(auth)/login/page";
 import { createSessionToken } from "./session";
 
 const userDBFile = 'usuariosBd.json';
+
+interface User {
+    id: string;
+    email: string;
+    password: string;
+}
 
 export async function createUser(data: LoginCredentials){
 
@@ -16,13 +22,13 @@ export async function createUser(data: LoginCredentials){
 
     const passwordCrypt = await bcrypt.hash(password,10);
 
-    const novoUser = {
+    const novoUser: User = {
         id: crypto.randomUUID(),
         email,
         password: passwordCrypt
     }
 
-    const users = await retornaBD(userDBFile);
+    const users = (await retornaBD(userDBFile)) as User[];
 
     for(const user of users)
     {
@@ -41,7 +47,7 @@ export async function validateCredentials(data: LoginCredentials){
     const email = data.email;
     const password = data.password;
 
-    const usuariosDB = await retornaBD(userDBFile);
+    const usuariosDB = (await retornaBD(userDBFile)) as User[];
 
     const user = usuariosDB.find(user => user.email === email);
 
