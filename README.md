@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Card Game de Super-Heróis - Projeto Final Web
 
-## Getting Started
+Este projeto é uma aplicação Fullstack desenvolvida como avaliação final da disciplina **XDES03 - Programação Web** da Universidade Federal de Itajubá (UNIFEI).
 
-First, run the development server:
+O sistema consiste em um gerenciador de cartas para um jogo estilo "Super Trunfo", permitindo cadastro de usuários, autenticação, importação de dados de API externa e um CRUD completo de cartas personalizadas.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A aplicação permite que cada usuário tenha sua própria coleção de cartas. Ao acessar pela primeira vez, o sistema consome uma API externa de Super-Heróis para criar um "deck inicial" para aquele usuário. A partir daí, o jogador pode criar novas cartas, editar atributos de heróis existentes ou excluir cartas do seu baralho.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Funcionalidades Principais
+* **Autenticação:** Login e Cadastro com validação de e-mail único, senha e criptografia (Bcrypt + JWT).
+* **Integração com API Externa:** Importação automática de dados da [Superhero API](https://akabab.github.io/superhero-api/) para popular o banco de dados inicial.
+* **CRUD:** Criação, Leitura, Atualização e Exclusão de cartas de heróis.
+* **Persistência em Arquivos:** Uso de sistema de arquivos (JSON) simulando um banco de dados NoSQL.
+* **Rotas Protegidas:** Sistema de Middleware para proteger áreas restritas contra acesso não autorizado.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tecnologias Utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+O projeto foi desenvolvido utilizando uma arquitetura baseada em **Next.js**, unificando Frontend e Backend.
 
-## Learn More
+### Frontend 
+* **Framework:** Next.js 15+ (App Router).
+* **Linguagem:** TypeScript.
+* **Estilização:** CSS Modules / Tailwind CSS.
+* **Validação de Forms:** Zod.
+* **Feedback Visual:** React Hot Toast.
 
-To learn more about Next.js, take a look at the following resources:
+### Backend
+* **Server Actions:** Manipulação de dados no lado do servidor (Next.js).
+* **Node.js:** Manipulação de arquivos (`fs/promises`) para persistência de dados.
+* **Segurança:**
+    * `bcrypt`: Hashing de senhas.
+    * `jose`: Geração e validação de tokens JWT.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Screenshots 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Dashboard Principal |
+|:---:|:---:|
+| ![Dashboard](/screenshot1.png) |
 
-## Deploy on Vercel
+| Listagem de Baralho |
+|:---:|:---:|
+|  ![Listagem](screenshot2.png) |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👥 Integrantes 
+
+* **Bernardo Miguel Florenzano** - [GitHub](https://github.com/BernardoMFlorenzano)
+* **Bruno Gonzales Flores** - [GitHub](https://github.com/Brunogf591)
+
+---
+*Projeto desenvolvido para a disciplina de Programação Web - UNIFEI.*
