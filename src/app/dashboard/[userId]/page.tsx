@@ -27,8 +27,8 @@ export default async function MainPagina({params}: UserId){
             </div>
             <div id="manual">
                 <p>Nesse jogo você terá cartas com quatro atributos cada.</p>
-                <p>As cartas serão escolhidas aleatoriamente do seu deck.
-                Você pode criar, editar ou excluir cartas.</p>
+                <p>As cartas serão escolhidas aleatoriamente do seu deck.</p>
+                <p>Você pode criar, editar ou excluir cartas.</p>
                 <p>A diferença entre o valor do atributo da carta do jogador e do rival será dada como dano na vida de quem teve o menor atributo.</p>
                 <p id="FUN"> Divirta-se.</p>
             </div>
