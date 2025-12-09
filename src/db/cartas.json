@@ -280,11 +280,7 @@
     "userId": "8aeb04dc-1b9f-421f-becf-0543996bd028"
   },
   {
-<<<<<<< HEAD
-    "id": "5509002c-5f0c-445c-ab5f-3e33fa2b0621",
-=======
     "id": "7eebe1d8-7e01-4525-8575-e6432a30feef",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Batman",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/70-batman.jpg",
     "atributos": {
@@ -294,18 +290,11 @@
       "durabilidade": 50,
       "poder": 47,
       "combate": 100
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "94cfc4fb-5ad8-4a79-ae1c-e100582722a3",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "b1e56d14-8e72-45e5-9107-9b7d9e442c62",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Captain America",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/149-captain-america.jpg",
     "atributos": {
@@ -315,18 +304,11 @@
       "durabilidade": 55,
       "poder": 60,
       "combate": 100
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "5a69ebdc-8009-45c8-953d-060137f748a2",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "2798fcdf-510b-4192-b9ac-81f882f063a5",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Darkseid",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/204-darkseid.jpg",
     "atributos": {
@@ -336,18 +318,11 @@
       "durabilidade": 100,
       "poder": 100,
       "combate": 95
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "99e715ee-0b31-4735-9481-5398ddb6f831",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "48c214ac-68d8-4249-adb9-83b32f228c74",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Deadpool",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/213-deadpool.jpg",
     "atributos": {
@@ -357,18 +332,11 @@
       "durabilidade": 100,
       "poder": 100,
       "combate": 100
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "4e182365-06ed-4538-92ef-8bfa151ab6e1",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "1021f9dc-5386-4559-9a2d-2e49bdc9edbc",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Doctor Doom",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/222-doctor-doom.jpg",
     "atributos": {
@@ -378,18 +346,11 @@
       "durabilidade": 100,
       "poder": 100,
       "combate": 84
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "9cd3938a-97f3-4510-805b-869c7aed684a",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "1e693e3d-9ae7-49c5-beb4-0f990bd85040",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Doomsday",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/230-doomsday.jpg",
     "atributos": {
@@ -399,18 +360,11 @@
       "durabilidade": 100,
       "poder": 100,
       "combate": 90
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "2e12706b-fcb3-408c-8573-58f263873b92",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "670a60d4-0f49-4dcf-b5a5-1c2dff992e93",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Flash II",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/265-flash-ii.jpg",
     "atributos": {
@@ -420,18 +374,11 @@
       "durabilidade": 60,
       "poder": 100,
       "combate": 60
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "51bd6cfe-29fc-4d16-b988-80c03b84c396",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "9bf36e65-6900-4a5b-be9e-718c6d56c24e",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Hal Jordan",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/306-hal-jordan.jpg",
     "atributos": {
@@ -441,18 +388,11 @@
       "durabilidade": 80,
       "poder": 100,
       "combate": 70
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "d209ed33-0479-4b9d-ac49-d5840d9745f4",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "dc88de25-19af-4bf8-8809-995ab7a93bb5",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Hulk",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/332-hulk.jpg",
     "atributos": {
@@ -462,18 +402,11 @@
       "durabilidade": 100,
       "poder": 98,
       "combate": 85
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "7c60bee8-e85e-4b36-add2-a5b30cdc5c0e",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "4f808a40-dd2f-498e-b41e-8b6b9c8f7d43",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Iron Man",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/346-iron-man.jpg",
     "atributos": {
@@ -483,18 +416,11 @@
       "durabilidade": 85,
       "poder": 100,
       "combate": 64
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "8e8fbc3c-26fb-4757-98b5-cb7e00479786",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "db3c1fed-8e43-4e5c-877d-e5feff8950a0",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Lobo",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/413-lobo.jpg",
     "atributos": {
@@ -504,18 +430,11 @@
       "durabilidade": 100,
       "poder": 100,
       "combate": 85
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "6e5ca42f-2d50-4b56-b997-36832db5bbe3",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "e2e2436d-34b6-466b-99cb-eac391f2642c",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Loki",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/414-loki.jpg",
     "atributos": {
@@ -525,18 +444,11 @@
       "durabilidade": 85,
       "poder": 100,
       "combate": 60
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "67693152-d587-4aa4-b011-469af7b64324",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "2606ad7f-e8ae-4750-adea-af2cbed17f61",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Magneto",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/423-magneto.jpg",
     "atributos": {
@@ -546,18 +458,11 @@
       "durabilidade": 84,
       "poder": 91,
       "combate": 80
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "d9de0f34-e86e-4469-a020-4b783c45dde8",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "ba01dfd2-903e-4212-9589-416951e074e5",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Spider-Man",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/620-spider-man.jpg",
     "atributos": {
@@ -567,18 +472,11 @@
       "durabilidade": 75,
       "poder": 74,
       "combate": 85
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "396d0b5d-b955-4892-881b-01e155b85a5f",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "86f564b3-0975-4224-a4dc-b105fe9d8cd4",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Superman",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/644-superman.jpg",
     "atributos": {
@@ -588,18 +486,11 @@
       "durabilidade": 100,
       "poder": 100,
       "combate": 85
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "2efaefff-6613-4cb5-8719-82cb7b2b7dd3",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "6c6c6ac6-1e44-435d-9604-afeb7b0224be",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Thanos",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/655-thanos.jpg",
     "atributos": {
@@ -609,18 +500,11 @@
       "durabilidade": 100,
       "poder": 100,
       "combate": 80
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "a3152f7d-3754-4330-8987-c8bc31b1650d",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "2bc6e7f7-7c60-4191-b52c-ada21802f220",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Thor",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/659-thor.jpg",
     "atributos": {
@@ -630,18 +514,11 @@
       "durabilidade": 100,
       "poder": 100,
       "combate": 100
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "b99969fd-20d6-44b1-9163-5450f8990fd1",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "65e43969-54ee-4a41-bd32-7e85a8c05ca4",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Ultron",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/680-ultron.jpg",
     "atributos": {
@@ -651,18 +528,11 @@
       "durabilidade": 100,
       "poder": 100,
       "combate": 64
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "f30e43e9-1ce6-41d6-b74f-000cd563c48a",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "ec332753-f129-4a50-bfbb-a127a5744987",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Wolverine",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/717-wolverine.jpg",
     "atributos": {
@@ -672,18 +542,11 @@
       "durabilidade": 100,
       "poder": 89,
       "combate": 100
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "74a257ca-0f2b-452c-b9f7-963c1eb5b914",
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
   },
   {
     "id": "e780fb81-db17-4673-94b4-b69fd11daf85",
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
     "nome": "Wonder Woman",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/720-wonder-woman.jpg",
     "atributos": {
@@ -693,305 +556,7 @@
       "durabilidade": 100,
       "poder": 100,
       "combate": 100
-<<<<<<< HEAD
-    }
-  },
-  {
-    "id": "de5c3fd7-1c90-48bf-b181-53a78709eb70",
-    "nome": "Batimão",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/70-batman.jpg",
-    "atributos": {
-      "inteligencia": 50,
-      "forca": 26,
-      "velocidade": 27,
-      "durabilidade": 50,
-      "poder": 47,
-      "combate": 100
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "7f8604a9-c535-4117-9898-f22214269237",
-    "nome": "Captain America",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/149-captain-america.jpg",
-    "atributos": {
-      "inteligencia": 69,
-      "forca": 19,
-      "velocidade": 38,
-      "durabilidade": 55,
-      "poder": 60,
-      "combate": 100
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "fe68abe3-3329-4a3a-8eb6-c6b409004a5d",
-    "nome": "Darkseid",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/204-darkseid.jpg",
-    "atributos": {
-      "inteligencia": 88,
-      "forca": 100,
-      "velocidade": 83,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 95
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "382aacff-3222-437b-a4dd-fcfb8afb4fe1",
-    "nome": "Deadpool",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/213-deadpool.jpg",
-    "atributos": {
-      "inteligencia": 69,
-      "forca": 32,
-      "velocidade": 50,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 100
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "c99f9d4f-9961-4c79-a4ae-1931a45f610f",
-    "nome": "Doctor Doom",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/222-doctor-doom.jpg",
-    "atributos": {
-      "inteligencia": 100,
-      "forca": 32,
-      "velocidade": 20,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 84
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "2907ba62-8ab5-4c58-a72e-c652b31bc9cb",
-    "nome": "Doomsday",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/230-doomsday.jpg",
-    "atributos": {
-      "inteligencia": 75,
-      "forca": 100,
-      "velocidade": 67,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 90
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "676d1d84-4eb6-4b03-b0c7-7cc1a30d1910",
-    "nome": "Flash II",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/265-flash-ii.jpg",
-    "atributos": {
-      "inteligencia": 88,
-      "forca": 48,
-      "velocidade": 100,
-      "durabilidade": 60,
-      "poder": 100,
-      "combate": 60
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "0b46c199-b127-49d2-94f3-9c90f0dd6a6c",
-    "nome": "Hal Jordan",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/306-hal-jordan.jpg",
-    "atributos": {
-      "inteligencia": 69,
-      "forca": 90,
-      "velocidade": 75,
-      "durabilidade": 80,
-      "poder": 100,
-      "combate": 70
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "a1230d98-da27-491b-9ae9-fd2f1ff8db76",
-    "nome": "Hulk",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/332-hulk.jpg",
-    "atributos": {
-      "inteligencia": 88,
-      "forca": 100,
-      "velocidade": 63,
-      "durabilidade": 100,
-      "poder": 98,
-      "combate": 85
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "5bcc748f-2850-4982-a160-21a85424f5dd",
-    "nome": "Iron Man",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/346-iron-man.jpg",
-    "atributos": {
-      "inteligencia": 100,
-      "forca": 85,
-      "velocidade": 58,
-      "durabilidade": 85,
-      "poder": 100,
-      "combate": 64
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "a6a439f3-105b-4aff-9e3c-7ca6bfecc09d",
-    "nome": "Lobo",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/413-lobo.jpg",
-    "atributos": {
-      "inteligencia": 94,
-      "forca": 100,
-      "velocidade": 54,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 85
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "b52f8dfd-0a9c-444a-8144-3c594c9ff6fb",
-    "nome": "Loki",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/414-loki.jpg",
-    "atributos": {
-      "inteligencia": 88,
-      "forca": 63,
-      "velocidade": 46,
-      "durabilidade": 85,
-      "poder": 100,
-      "combate": 60
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "66a967f4-bb54-4320-879d-020bfb159b56",
-    "nome": "Magneto",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/423-magneto.jpg",
-    "atributos": {
-      "inteligencia": 88,
-      "forca": 80,
-      "velocidade": 27,
-      "durabilidade": 84,
-      "poder": 91,
-      "combate": 80
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "e2e9c9d6-0461-4871-bcc7-0ac43ecac3cd",
-    "nome": "Spider-Man",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/620-spider-man.jpg",
-    "atributos": {
-      "inteligencia": 90,
-      "forca": 55,
-      "velocidade": 67,
-      "durabilidade": 75,
-      "poder": 74,
-      "combate": 85
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "de52dd28-d6f1-4c83-beaf-9dd24a97a2d9",
-    "nome": "Superman",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/644-superman.jpg",
-    "atributos": {
-      "inteligencia": 94,
-      "forca": 100,
-      "velocidade": 100,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 85
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "737ea85d-feab-46b7-b0ab-3e331a82d208",
-    "nome": "Thanos",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/655-thanos.jpg",
-    "atributos": {
-      "inteligencia": 100,
-      "forca": 100,
-      "velocidade": 33,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 80
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "f739af61-9f3b-41ca-9aa9-4dd99b1e9752",
-    "nome": "Thor",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/659-thor.jpg",
-    "atributos": {
-      "inteligencia": 69,
-      "forca": 100,
-      "velocidade": 83,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 100
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "c9a796a0-e1ab-4f2c-9f8c-06d9b2ea9b3a",
-    "nome": "Ultron",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/680-ultron.jpg",
-    "atributos": {
-      "inteligencia": 88,
-      "forca": 83,
-      "velocidade": 42,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 64
-    },
-    "userId": "28c70847-bffc-4883-af84-e507121b0d83"
-  },
-  {
-    "id": "dcaa1756-458b-475f-afbd-f3052224aadd",
-    "nome": "Thanos",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/655-thanos.jpg",
-    "atributos": {
-      "inteligencia": 100,
-      "forca": 100,
-      "velocidade": 33,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 80
-    },
-    "userId": "35241f91-e8af-45ab-8546-4f7a45abfc83"
-  },
-  {
-    "id": "e0a57b4d-eb3c-42b7-97bf-bdb8bd19d0ee",
-    "nome": "Thor",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/659-thor.jpg",
-    "atributos": {
-      "inteligencia": 69,
-      "forca": 100,
-      "velocidade": 83,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 100
-    },
-    "userId": "35241f91-e8af-45ab-8546-4f7a45abfc83"
-  },
-  {
-    "id": "16ec039e-e277-41d5-ada0-293cee2bf65c",
-    "nome": "Ultron",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/680-ultron.jpg",
-    "atributos": {
-      "inteligencia": 88,
-      "forca": 83,
-      "velocidade": 42,
-      "durabilidade": 100,
-      "poder": 100,
-      "combate": 64
-    },
-    "userId": "35241f91-e8af-45ab-8546-4f7a45abfc83"
-=======
     },
     "userId": "6b13d32e-2ed8-4f65-981e-dbd12df7f4fb"
->>>>>>> 26b64e12f2bb0d279dfe18374736c744574556ef
   }
 ]
