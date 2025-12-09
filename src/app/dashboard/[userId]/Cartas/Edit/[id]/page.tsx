@@ -1,6 +1,6 @@
 
 import {retornaBD,armazenaBD} from "@/app/libs/conexaoBd";
-//import "@/app/styles/.css";
+import "@/app/styles/EditCard.css";
 import { CartaHeroi } from "@/app/ui/heroiCardCRUD";
 import Image from "next/image";
 import { redirect } from "next/navigation";
@@ -51,8 +51,8 @@ export default async function EditaCarta({params}: EditCartaHeroi){
     return (
         <div className="">
             <h2 className="">Editando: {cartaAEditar.nome}</h2>
-            <form action={atualizaCarta} className="">
-                <div>
+            <form action={atualizaCarta} className="FormEdit">
+                <div className="Image">
                     {cartaAEditar.imagem && (
                         <Image 
                             src={cartaAEditar.imagem}
@@ -64,7 +64,7 @@ export default async function EditaCarta({params}: EditCartaHeroi){
                     )}
                 </div>
 
-                <section className="">
+                <section className="Valores">
                     <label htmlFor="nome">Nome</label>
                     <input type="text"
                         id="nome"
@@ -75,7 +75,7 @@ export default async function EditaCarta({params}: EditCartaHeroi){
                     />
                 </section>
 
-                <section className="">
+                <section className="Valores">
                     <label htmlFor="imagem">URL da Imagem</label>
                     <input type="text"
                         id="imagem"
@@ -86,7 +86,7 @@ export default async function EditaCarta({params}: EditCartaHeroi){
                     />
                 </section>
 
-                <div className="">
+                <div className="Valores">
                     <section className="">
                         <label htmlFor="inteligencia">Inteligência</label>
                         <input type="number" id="inteligencia" name="inteligencia" 
@@ -124,9 +124,11 @@ export default async function EditaCarta({params}: EditCartaHeroi){
                     </section>
                 </div>
 
-                <div className="">
+                <div className="btns">
                     <button type="submit" className="btn-salvar">Salvar Alterações</button>
-                    <Link href={`/dashboard/${userId}/Cartas`} className="btn-cancelar">Cancelar</Link>
+                    <button>
+                        <Link href={`/dashboard/${userId}/Cartas`} className="btn-cancelar">Cancelar</Link>
+                    </button>
                 </div>
 
             </form>

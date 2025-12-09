@@ -1,5 +1,5 @@
 import { armazenaBD, retornaBD } from "@/app/libs/conexaoBd";
-//import "@/app/styles/.css";
+import "@/app/styles/NewCard.css";
 import { CartaHeroi } from "@/app/ui/heroiCardCRUD";
 import { redirect } from "next/navigation";
 import { UserId } from "../page";
@@ -48,7 +48,7 @@ export default async function CriaCarta({params}: UserId){
     return(
         <section className="">
             <h2>Inserir Nova Carta</h2>
-            <form action={addCartaAction} className="">
+            <form action={addCartaAction} className="FormCreate">
                 <section className="">
                     <label htmlFor="nome">Nome</label>
                     <input type="text" id="nome" name="nome" placeholder="Ex: Batman" required />
@@ -92,7 +92,9 @@ export default async function CriaCarta({params}: UserId){
                 </div>
                 
                 <button type="submit" className="btn-salvar">Adicionar Carta</button>
-                <Link href={`/dashboard/${userId}/Cartas`} className="btn-cancelar">Cancelar</Link>
+                <button>
+                    <Link href={`/dashboard/${userId}/Cartas`} className="btn-cancelar">Cancelar</Link>
+                </button>
             </form>
         </section>
     );

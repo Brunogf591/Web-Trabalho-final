@@ -2,6 +2,8 @@ import { retornaBD } from "@/app/libs/conexaoBd";
 import Carta from "@/app/ui/heroiCardCRUD"; 
 import Link from "next/link";
 
+import '@/app/styles/Deck.css';
+
 export interface UserId {
     params: Promise<{userId: string}>;
 }
@@ -16,10 +18,11 @@ export default async function PaginaCRUD({ params }: { params: { userId: string 
     return (
         <div>
             <h2>Minha Coleção</h2>
-            <Link href={`/dashboard/${userId}`}>Voltar</Link>
+            <div className="PagOpt">
+                           <Link href={`/dashboard/${userId}`}>Voltar</Link>
             <Link href={`/dashboard/${userId}/Cartas/Create`}>Criar Nova Carta</Link>
-            
-            <div>
+            </div>
+            <div className="Cards">
                 {minhasCartas.map((carta: any) => (
                     <Carta 
                         key={carta.id} 

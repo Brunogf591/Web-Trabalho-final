@@ -60,8 +60,10 @@ export default function Carta(props: CartaHeroi)
                 <button id="combat"><span className="key">Combate:</span><span className="value">{props.atributos.combate}</span></button>
             </form>
 
-            <div>
-                <Link href={`/dashboard/${props.userId}/Cartas/Edit/${props.id}`} id="btn-edit">Editar</Link>
+            <div id="Changes">
+                <button>
+                   <Link href={`/dashboard/${props.userId}/Cartas/Edit/${props.id}`} id="btn-edit">Editar</Link> 
+                </button>
                 <form action={deleteCarta}>
                     <button id="btn-delete">Deletar</button>
                 </form>
