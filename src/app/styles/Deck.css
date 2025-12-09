@@ -1,6 +1,7 @@
 h2{
     text-align: center;
     margin-top: 0.7em;
+    font-size: 2em;
     color: rgb(10, 10, 85);
     background-color: rgb(100, 150, 175);
 }
@@ -9,6 +10,7 @@ h2{
     width: 50%;
     display: flex;
     justify-content: space-between;
+    font-size: 1.3em;
     color: rgb(10, 10, 85);
     margin: 0.7em auto;
     background-color: rgb(100, 150, 175);

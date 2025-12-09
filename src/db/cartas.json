@@ -1,19 +1,5 @@
 [
   {
-    "id": "6930e955-955b-41e5-b54b-4baee2d1f0bb",
-    "nome": "Captain America",
-    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/149-captain-america.jpg",
-    "atributos": {
-      "inteligencia": 69,
-      "forca": 19,
-      "velocidade": 38,
-      "durabilidade": 55,
-      "poder": 60,
-      "combate": 100
-    },
-    "userId": "8aeb04dc-1b9f-421f-becf-0543996bd028"
-  },
-  {
     "id": "8770a2db-a09f-4ce6-8951-100dfe91fccf",
     "nome": "Darkseid",
     "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/204-darkseid.jpg",
@@ -275,6 +261,20 @@
       "velocidade": 27,
       "durabilidade": 50,
       "poder": 47,
+      "combate": 100
+    },
+    "userId": "8aeb04dc-1b9f-421f-becf-0543996bd028"
+  },
+  {
+    "id": "455ed812-aa3b-44fd-aeca-30576c47b5b2",
+    "nome": "Captain America",
+    "imagem": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/149-captain-america.jpg",
+    "atributos": {
+      "inteligencia": 69,
+      "forca": 19,
+      "velocidade": 38,
+      "durabilidade": 55,
+      "poder": 60,
       "combate": 100
     },
     "userId": "8aeb04dc-1b9f-421f-becf-0543996bd028"
