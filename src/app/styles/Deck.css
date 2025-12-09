@@ -43,14 +43,28 @@ body{
     background-color: rgb(0, 50, 70);
     img{
         width: 80%;
-        height: auto
+        height: auto;
+        aspect-ratio: 50/70;
+        margin: 0.1em 0;
     };
     #Changes{
+        width: 100%;
         display: flex;
+        align-items: center;
         margin-bottom: 0.2em;
         button:hover{
             color: darkred;
             background-color: #bea73f;
+        }
+        form{
+            width: 100%;
+        }
+        button{
+            width: 95%;
+            height: 2em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
     }
     #Changes a:hover{

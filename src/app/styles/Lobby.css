@@ -7,8 +7,10 @@ h1{
 
 .PagOpt{
     width: 50%;
+    margin: auto;
     display: flex;
     justify-content: space-between;
+    align-self: center;
     color: rgb(10, 10, 85);
     background-color: rgb(100, 150, 175);
 }
